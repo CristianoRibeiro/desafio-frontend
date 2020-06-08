@@ -1,4 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Desafio Frontend - Usando React com Typescript
+
+## SITUAÇÃO:
+Instituição do ramo financeiro, que opera com Empréstimo e Aplicação, precisa liberar uma
+nova tela de atendimento para os analistas de crédito que realizam as operações negociais,
+por telefone, junto aos clientes.
+## Contexto:
+Para os analista de crédito acessarem esta tela de atendimento é necessário passar por
+uma tela de Login.
+
+Na tela de atendimento são relevantes as seguintes informações:
+
+Informações sobre saldos de empréstimos e aplicações
+Informações sobre limites de crédito disponíveis
+Informações de identificação do cliente que está sendo atendido como, por exemplo: cpf,
+nome, nascimento, renda mensal, data de nascimento,
+Formulário de Simulação de empréstimo / aplicações
+Informações sobre impedimentos ou restrições para operar, BACEN, SERASA, SPC
+Informações sobre operações– empréstimos e aplicações já realizadas, ou vigentes
+## ** Desenvolver utilizando React, Angular ou Vue, com uso de Bootstrap ou Materialize
+
 
 ## Available Scripts
 
@@ -37,8 +58,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+

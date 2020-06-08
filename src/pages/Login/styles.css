@@ -1,0 +1,8 @@
+
+
+div .container, .col-lg-5, .col-md-7{
+  width: 100%;
+  max-width: 1100px;
+
+  margin: 10% auto;
+}
